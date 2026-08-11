@@ -14,11 +14,11 @@ Status: in_progress
 | PostgreSQL | PostgreSQL Schema Design for a Workflow Product | written | `posts/series-2-postgres/01-schema-design.md` |
 | PostgreSQL | Transactions, Isolation, and Atomic State Changes | written | `posts/series-2-postgres/02-transactions-isolation.md` |
 | PostgreSQL | Inventory Reservation Without Overselling | written | `posts/series-2-postgres/03-inventory-reservation.md` |
-| PostgreSQL | Indexes, Query Plans, and Queue-Facing Reads | planned | `posts/series-2-postgres/04-indexes-query-plans.md` |
-| PostgreSQL | Testing PostgreSQL Behavior for Real | planned | `posts/series-2-postgres/05-testing-postgresql.md` |
-| PostgreSQL | A Correct Pharmacy Persistence Model Under Concurrent Demand | planned | `posts/series-2-postgres/06-showcase-concurrent-persistence.md` |
-| RabbitMQ | AMQP Topology for Pharmacy Workflow Messages | planned | `posts/series-3-rabbitmq/01-amqp-topology.md` |
-| RabbitMQ | Publisher Confirms and the Outbox Relay | planned | `posts/series-3-rabbitmq/02-publisher-confirms-outbox.md` |
+| PostgreSQL | Indexes, Query Plans, and Queue-Facing Reads | written | `posts/series-2-postgres/04-indexes-query-plans.md` |
+| PostgreSQL | Testing PostgreSQL Behavior for Real | written | `posts/series-2-postgres/05-testing-postgresql.md` |
+| PostgreSQL | A Correct Pharmacy Persistence Model Under Concurrent Demand | written | `posts/series-2-postgres/06-showcase-concurrent-persistence.md` |
+| RabbitMQ | AMQP Topology for Pharmacy Workflow Messages | written | `posts/series-3-rabbitmq/01-amqp-topology.md` |
+| RabbitMQ | Publisher Confirms and the Outbox Relay | written | `posts/series-3-rabbitmq/02-publisher-confirms-outbox.md` |
 | RabbitMQ | Manual Acknowledgements, Prefetch, and Consumer Concurrency | planned | `posts/series-3-rabbitmq/03-ack-prefetch-concurrency.md` |
 | RabbitMQ | Retries, Dead Letters, and Poison Messages | planned | `posts/series-3-rabbitmq/04-retries-dead-letters.md` |
 | RabbitMQ | Idempotent Consumers and Ordering Guarantees | planned | `posts/series-3-rabbitmq/05-idempotency-ordering.md` |
