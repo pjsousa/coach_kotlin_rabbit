@@ -13,7 +13,7 @@ Status: in_progress
 | Kotlin | From Java Service to Idiomatic Kotlin Prescription Domain | written | `posts/series-1-kotlin/05-showcase-kotlin-prescription-domain.md` |
 | PostgreSQL | PostgreSQL Schema Design for a Workflow Product | written | `posts/series-2-postgres/01-schema-design.md` |
 | PostgreSQL | Transactions, Isolation, and Atomic State Changes | written | `posts/series-2-postgres/02-transactions-isolation.md` |
-| PostgreSQL | Inventory Reservation Without Overselling | planned | `posts/series-2-postgres/03-inventory-reservation.md` |
+| PostgreSQL | Inventory Reservation Without Overselling | written | `posts/series-2-postgres/03-inventory-reservation.md` |
 | PostgreSQL | Indexes, Query Plans, and Queue-Facing Reads | planned | `posts/series-2-postgres/04-indexes-query-plans.md` |
 | PostgreSQL | Testing PostgreSQL Behavior for Real | planned | `posts/series-2-postgres/05-testing-postgresql.md` |
 | PostgreSQL | A Correct Pharmacy Persistence Model Under Concurrent Demand | planned | `posts/series-2-postgres/06-showcase-concurrent-persistence.md` |
