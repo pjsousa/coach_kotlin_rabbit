@@ -19,14 +19,14 @@ Status: in_progress
 | PostgreSQL | A Correct Pharmacy Persistence Model Under Concurrent Demand | written | `posts/series-2-postgres/06-showcase-concurrent-persistence.md` |
 | RabbitMQ | AMQP Topology for Pharmacy Workflow Messages | written | `posts/series-3-rabbitmq/01-amqp-topology.md` |
 | RabbitMQ | Publisher Confirms and the Outbox Relay | written | `posts/series-3-rabbitmq/02-publisher-confirms-outbox.md` |
-| RabbitMQ | Manual Acknowledgements, Prefetch, and Consumer Concurrency | planned | `posts/series-3-rabbitmq/03-ack-prefetch-concurrency.md` |
-| RabbitMQ | Retries, Dead Letters, and Poison Messages | planned | `posts/series-3-rabbitmq/04-retries-dead-letters.md` |
-| RabbitMQ | Idempotent Consumers and Ordering Guarantees | planned | `posts/series-3-rabbitmq/05-idempotency-ordering.md` |
-| RabbitMQ | RabbitMQ Operational Testing | planned | `posts/series-3-rabbitmq/06-operational-testing.md` |
-| RabbitMQ | Reliable Prescription Fulfillment with RabbitMQ | planned | `posts/series-3-rabbitmq/07-showcase-reliable-fulfillment.md` |
-| Product/SSE | Designing the Minimum Patient-First API | planned | `posts/series-4-product-sse/01-patient-first-api.md` |
-| Product/SSE | SSE Correctness: IDs, Replay, Ordering, and Isolation | planned | `posts/series-4-product-sse/02-sse-correctness.md` |
-| Product/SSE | Testing Realtime Patient Experiences | planned | `posts/series-4-product-sse/03-testing-realtime.md` |
+| RabbitMQ | Manual Acknowledgements, Prefetch, and Consumer Concurrency | written | `posts/series-3-rabbitmq/03-ack-prefetch-concurrency.md` |
+| RabbitMQ | Retries, Dead Letters, and Poison Messages | written | `posts/series-3-rabbitmq/04-retries-dead-letters.md` |
+| RabbitMQ | Idempotent Consumers and Ordering Guarantees | written | `posts/series-3-rabbitmq/05-idempotency-ordering.md` |
+| RabbitMQ | RabbitMQ Operational Testing | written | `posts/series-3-rabbitmq/06-operational-testing.md` |
+| RabbitMQ | Reliable Prescription Fulfillment with RabbitMQ | written | `posts/series-3-rabbitmq/07-showcase-reliable-fulfillment.md` |
+| Product/SSE | Designing the Minimum Patient-First API | written | `posts/series-4-product-sse/01-patient-first-api.md` |
+| Product/SSE | SSE Correctness: IDs, Replay, Ordering, and Isolation | written | `posts/series-4-product-sse/02-sse-correctness.md` |
+| Product/SSE | Testing Realtime Patient Experiences | written | `posts/series-4-product-sse/03-testing-realtime.md` |
 | Product/SSE | Scoping a Two-Hour Versus Five-Hour Challenge | planned | `posts/series-4-product-sse/04-time-box-scoping.md` |
 | Product/SSE | From Prescription Submission to Patient Notification: A Defensible Product Slice | planned | `posts/series-4-product-sse/05-showcase-patient-notification.md` |
 | Interview | How to Walk Through a Take-Home System | planned | `posts/series-5-interview/01-take-home-walkthrough.md` |
