@@ -27,12 +27,12 @@ Status: in_progress
 | Product/SSE | Designing the Minimum Patient-First API | written | `posts/series-4-product-sse/01-patient-first-api.md` |
 | Product/SSE | SSE Correctness: IDs, Replay, Ordering, and Isolation | written | `posts/series-4-product-sse/02-sse-correctness.md` |
 | Product/SSE | Testing Realtime Patient Experiences | written | `posts/series-4-product-sse/03-testing-realtime.md` |
-| Product/SSE | Scoping a Two-Hour Versus Five-Hour Challenge | planned | `posts/series-4-product-sse/04-time-box-scoping.md` |
-| Product/SSE | From Prescription Submission to Patient Notification: A Defensible Product Slice | planned | `posts/series-4-product-sse/05-showcase-patient-notification.md` |
-| Interview | How to Walk Through a Take-Home System | planned | `posts/series-5-interview/01-take-home-walkthrough.md` |
-| Interview | Explaining Tradeoffs Without Overclaiming | planned | `posts/series-5-interview/02-tradeoffs.md` |
-| Interview | The Proprietary Database Leadership Story | planned | `posts/series-5-interview/03-proprietary-database-story.md` |
-| Interview | Defending the Pharmacy Challenge in a Product Engineer Interview | planned | `posts/series-5-interview/04-showcase-interview-defense.md` |
+| Product/SSE | Scoping a Two-Hour Versus Five-Hour Challenge | written | `posts/series-4-product-sse/04-time-box-scoping.md` |
+| Product/SSE | From Prescription Submission to Patient Notification: A Defensible Product Slice | written | `posts/series-4-product-sse/05-showcase-patient-notification.md` |
+| Interview | How to Walk Through a Take-Home System | written | `posts/series-5-interview/01-take-home-walkthrough.md` |
+| Interview | Explaining Tradeoffs Without Overclaiming | written | `posts/series-5-interview/02-tradeoffs.md` |
+| Interview | The Proprietary Database Leadership Story | written | `posts/series-5-interview/03-proprietary-database-story.md` |
+| Interview | Defending the Pharmacy Challenge in a Product Engineer Interview | written | `posts/series-5-interview/04-showcase-interview-defense.md` |
 
 ## Candidate Context
 
