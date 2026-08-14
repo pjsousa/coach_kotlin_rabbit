@@ -123,6 +123,39 @@ K01 → K02 → K03 → K05, then S01 → S04, then **P03 or P04**, then R03 →
 
 Total: 60 hours. Time boxes are lab targets inside the 60-hour budget, **not** an approximation of the 2–5 hour challenge submission.
 
+## Track capstones
+
+Capstones synthesize each track's skills in a **new, small project** — geek/nerd domains (dice oracle, coffee cart, concert holds, courier network, observatory, nightshift ops). They are **code-along mini-projects**: you create a real new project from zero under a guided path. They do **not** replace showcase exercises Ex1–3.
+
+| ID | Title | Track | Time | File | Project slug |
+|---|---|---|---|---|---|
+| KC | [Dungeon Dice Oracle](kotlin/CAPSTONE_KC_dungeon_dice_oracle.md) | A — Kotlin | ~4–6h | `kotlin/CAPSTONE_KC_dungeon_dice_oracle.md` | `dungeon-dice-oracle` |
+| SC | [Tiny Status Café](spring/CAPSTONE_SC_tiny_status_cafe.md) | B — Spring | ~5–7h | `spring/CAPSTONE_SC_tiny_status_cafe.md` | `tiny-status-cafe` |
+| PC | [Seathold Arena](postgres/CAPSTONE_PC_seathold_arena.md) | C — Postgres | ~6–8h | `postgres/CAPSTONE_PC_seathold_arena.md` | `seathold-arena` |
+| RC | [Courier Packet Relay](rabbit/CAPSTONE_RC_courier_packet_relay.md) | D — Rabbit | ~6–8h | `rabbit/CAPSTONE_RC_courier_packet_relay.md` | `courier-packet-relay` |
+| XC | [Observatory Desk](glue/CAPSTONE_XC_observatory_desk.md) | E — Glue | ~5–7h | `glue/CAPSTONE_XC_observatory_desk.md` | `observatory-desk` |
+| AC | [Nightshift Incident Lab](advanced/CAPSTONE_AC_nightshift_incident_lab.md) | F — Advanced | ~8–12h | `advanced/CAPSTONE_AC_nightshift_incident_lab.md` | `nightshift-incident-lab` |
+
+### Gate rule
+
+Finish the track's **lab electives before its capstone** — or knowingly skip with a written waiver inside the capstone's checklist. Every capstone file carries a **Skill checklist (mandatory)**: it maps each prior lab elective ID to a concrete behavior you must implement, and you mark **pass / skip + waiver** for every line.
+
+### `projects/` convention
+
+Create capstone projects under `showcase_projects/electives/projects/<slug>/` (e.g. `showcase_projects/electives/projects/dungeon-dice-oracle/`). This directory is candidate-owned code — consider adding `showcase_projects/electives/projects/` to `.gitignore` (optional). The writer does not scaffold Gradle apps; the capstone files guide you through bootstrap.
+
+### Wave guidance
+
+- **KC / SC** after the Wave-1 kotlin/spring labs (K01–K08, S01–S06).
+- **PC** after the P-track labs (P01–P07).
+- **RC** after the R-track labs (R01–R07).
+- **XC** after the glue electives (X01–X04).
+- **AC** after the advanced core path (**A01, A03, A04, A09, A11, A13, A14, A15**) — effectively post Ex3.
+
+### Reminder
+
+Capstones do **not** replace pharmacy-fulfillment Ex1–3. They are synthesis projects whose handoffs point back into the showcase exercises: KC → before Ex1 domain modeling; SC → before Ex1 API; PC → before Ex2; RC → during/before Ex3; XC → Ex3 SSE; AC → post-Ex3 grilling.
+
 ## Dependency edges that matter
 
 - **K01 → K02 → K03:** strict order — value objects, then nullability, then sealed states builds on both.
