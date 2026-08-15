@@ -1,0 +1,54 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Kotlin
+.kotlin/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+gen/
+*.classpath
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Local configuration
+local.properties
+.env
+.env.*
+!.env.example
+
+# Test results
+test-results/
+reports/
+*.html
+
+# Kotlin/Native
+.konan/
+
+# Exposed/serialization generated sources
+build/generated/
